@@ -16,4 +16,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:data@kimjunu.com)
+[data@kimjunu.com](mailto:data@kimjunu.com)
