@@ -3,7 +3,6 @@ layout: page
 title: Archive
 permalink: /archive/
 ---
-<article>
 
 <!-- from http://www.mitsake.net/2012/04/archives-in-jekyll/ -->
 
@@ -17,6 +16,3 @@ permalink: /archive/
 <li> <a href="{{ post.url }}">{{ post.title }}</a>  <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span></li>
  
 {% endfor %}
-
-
-</article>
