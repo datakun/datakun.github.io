@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-게으른 개발자입니다. 그래서 이렇게나마 기록하고자합니다.
+### 소개
 
-### More Information
+게으른 개발자입니다. 그래서 이렇게나마 기록하고자합니다.
 
 봤던 영화나 읽었던 책, 들었던 음악의 느낌을 기록할 수도 있습니다.
 
@@ -14,6 +14,14 @@ permalink: /about/
 
 무엇이든지 일단 기록을 하는 것이 이 블로그의 목적입니다.
 
-### Contact me
+### 사용 언어
+
+C++ (Qt, MFC)
+
+Java (Android)
+
+Python
+
+### 연락처
 
 [data@kimjunu.com](mailto:data@kimjunu.com)
