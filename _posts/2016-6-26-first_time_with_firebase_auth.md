@@ -23,6 +23,7 @@ Authentication, Realtime Database, 여력이 된다면 Cloud Messaging 기능이
 
 {% highlight text %}
 Failed to load module descriptor class: Didn't find class “com.google.android.gms.dynamite.descriptors.com.google.firebase.auth.ModuleDescriptor"
+
 {% endhighlight %}
 
 알고보니 SDK Manager에서 Google Play Service를 설치하지 않았기 때문이었다.
