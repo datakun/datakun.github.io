@@ -13,7 +13,9 @@ gradle 파일에 의존 패키지 추가하고 동기화하면 세팅이 끝난�
 2. rule을 잘 정해야한다.
 몇일 전에 rule을 제대로(정말 제대로. 다른 uid는 쓰기기능에 접근을 못하도록) 정의했는데,
 그게 잘 동작해서
-``` updateChildren at / failed: DatabaseError: Permission denied ```
+```
+updateChildren at / failed: DatabaseError: Permission denied
+```
 에러를 뱉어냈다.
 처음엔 왜 퍼미션 에러가 날까 고민했는데,
 알고보니 며칠 전에 정의했던 규칙때문이었다.
