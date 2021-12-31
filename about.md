@@ -18,7 +18,7 @@ permalink: /about/
 ### 사이드 프로젝트
 
 - My Muse List
-    - https://mymuselist.com/
+    - [https://mymuselist.com/](https://mymuselist.com/)
     - YouTube에 업로드 된 음악가의 공연 영상 주소를 음악가, 공연장, 공연 별로 모아서 보관 및 제공하는 서비스.
 
 ### 기술
